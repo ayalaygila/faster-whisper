@@ -1,0 +1,1 @@
+whisper "C:/Users/ayala/Downloads/הראיון הרשמי (78acadcf-8000-4343-9228-9c3359c40e3f).aac" --language he --output_dir "C:/Users/ayala/Downloads"
