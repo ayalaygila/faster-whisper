@@ -1,0 +1,2 @@
+file:///C:/Users/ayala/Downloads/%D7%94%D7%A8%D7%90%D7%99%D7%95%D7%9F%20%D7%94%D7%A8%D7%A9%D7%9E%D7%99%20(78acadcf-8000-4343-9228-9c3359c40e3f).aac
+whisper "C:/Users/ayala/Downloads/הראיון הרשמי.aac" --language he --output_dir "C:/Users/ayala/Downloads"
